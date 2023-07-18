@@ -1,0 +1,12 @@
+.abuimg:hover{
+	transform: scale(1.25);
+}
+.serimg:hover{
+	transform: scale(2);
+}
+.bg{
+	background-image: url("Aboutus1.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+}

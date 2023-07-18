@@ -1,0 +1,30 @@
+html,body{
+	height: 100%;
+}
+.img{
+	background-image: url("Patrolpump2.jpg");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+ul{
+	list-style-type:none;
+	overflow: hidden;
+	background-color: black;
+}
+ul li{
+	float: right;
+}
+li a{
+	height:fixed;
+	width:fixed;
+	display: block;
+	color: white;
+	padding: 12px 14px;
+	text-align: center;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: red;
+}

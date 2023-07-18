@@ -1,0 +1,18 @@
+.login{
+}
+table{
+	float:right;
+	color:red;
+	background-color: white;
+}
+td{
+	padding:8px;
+	margin:8px;
+}
+h1{
+	text-align:right;
+	color:white;
+}
+.size{
+	font-size:4px;
+}

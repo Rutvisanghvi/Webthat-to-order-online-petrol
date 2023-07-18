@@ -1,0 +1,15 @@
+.bg{
+	background-image: url("contactus.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+}
+td{
+
+}
+tr{
+	margin:4px;
+	padding:4px;
+}
+table{
+	background-color:white;
+}

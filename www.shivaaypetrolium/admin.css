@@ -1,0 +1,15 @@
+table{
+	text-align:center;
+	color:dark-gray;
+	background-color: white;
+}
+td{
+	padding:8px;
+	margin:8px;
+	color:red;
+}
+th{
+	padding:8px;
+	margin:8px;
+	color:green;	
+}
